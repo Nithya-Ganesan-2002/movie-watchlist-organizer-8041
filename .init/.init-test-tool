@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/movie-watchlist-organizer-8041/movie_planner_frontend"
+}
